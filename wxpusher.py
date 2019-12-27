@@ -78,7 +78,7 @@ class WXpusher_api:
 
         self.data = {
 
-                    "appToken":"AT_ZnmHbwWYzrxjIEyQni4miU72dcLy43WW",
+                    "appToken":"AT_ZnmHbwWYxxxxIEyQni4miU72dcLy43WW",
 
                     "content": "{0}".format(self.content),
 
